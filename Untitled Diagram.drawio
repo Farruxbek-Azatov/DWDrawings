@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2023-05-04T13:44:34.938Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68" version="21.2.8" etag="Fn4q-q40Y53JW5AxEr4h" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-04T13:49:13.981Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68" etag="z_2n9L9hNLj8nAa-YJaa" version="21.2.8" type="github">
   <diagram name="Page-1" id="BXCrnupGK56XtFK2XrwI">
-    <mxGraphModel>
+    <mxGraphModel dx="737" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3AEwU22_-5v4zsh7C9XG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3AEwU22_-5v4zsh7C9XG-1" target="3AEwU22_-5v4zsh7C9XG-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3AEwU22_-5v4zsh7C9XG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3AEwU22_-5v4zsh7C9XG-1" target="3AEwU22_-5v4zsh7C9XG-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3AEwU22_-5v4zsh7C9XG-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3AEwU22_-5v4zsh7C9XG-1" target="3AEwU22_-5v4zsh7C9XG-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3AEwU22_-5v4zsh7C9XG-1" value="Fact Measurements" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3AEwU22_-5v4zsh7C9XG-2" value="Additive" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3AEwU22_-5v4zsh7C9XG-4" value="Semi-Additive" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3AEwU22_-5v4zsh7C9XG-5" value="Non-Additive" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
